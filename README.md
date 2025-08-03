@@ -1,1 +1,1 @@
-# PRODIGY_WD_02
+This is a website which is built with the "Dimension" HTML5 template. It includes multiple pages (index, task, about, contact) with a responsive design featuring modal-style content sections. The site uses jQuery for interactivity, Sass for styling, and follows modern web development practices with separate CSS/JS assets.
